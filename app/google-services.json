@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "238662884920",
+    "firebase_url": "https://veloraquip-default-rtdb.firebaseio.com",
+    "project_id": "veloraquip",
+    "storage_bucket": "veloraquip.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238662884920:android:129370dca249b12f3890cd",
+        "android_client_info": {
+          "package_name": "com.neha.veloraquip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1-Qu4-cyaggNayt9f_LTonpDd1LOwkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
