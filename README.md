@@ -1,7 +1,6 @@
 # VeloraQuip Chat App
 
 A **real-time chat application** built using **Kotlin + Jetpack Compose** for UI and **Firebase Realtime Database + Firebase Cloud Messaging** for backend and notifications.  
-This project was created as part of **Internship Task 5**.
 
 ---
 
