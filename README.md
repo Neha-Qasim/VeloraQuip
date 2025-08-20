@@ -66,7 +66,7 @@ This project was created as part of **Internship Task 5**.
 ![Chat List](https://github.com/Neha-Qasim/VeloraQuip/blob/833fe1162c2e217e8904f1beb3388859884f3710/Screenshot%202025-08-20%20213516.png)
 
 ### Chat Detail
-![Chat Detail](screenshots/chat_detail.png)
+![Chat Detail](https://github.com/Neha-Qasim/VeloraQuip/blob/fe987f471e81192b2c7d16c3b7346a3d7175df21/Screenshot%202025-08-20%20213052.png)
 
 ---
 
