@@ -60,7 +60,7 @@ This project was created as part of **Internship Task 5**.
 ## **Screenshots**
 
 ### Login Screen
-![Login Screen][(https://github.com/Neha-Qasim/VeloraQuip/blob/82cc3d6c9050709d7fcc85e4f45244af423742bb/Screenshot%202025-08-20%20213623.png)]
+![Login Screen](https://github.com/Neha-Qasim/VeloraQuip/blob/82cc3d6c9050709d7fcc85e4f45244af423742bb/Screenshot%202025-08-20%20213623.png)
 
 ### Chat List
 ![Chat List](screenshots/chat_list.png)
