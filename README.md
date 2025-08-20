@@ -14,7 +14,7 @@ This project was created as part of **Internship Task 5**.
   - Real-time messaging between two users.
   - Shows sender/receiver bubbles with timestamps.
 - **Push Notifications**
-  - Sends notifications for new messages via FCM.
+  - Sends notifications for new messages via FCM in form of voice notification.
 
 ### UI/UX
 - Clean, responsive chat interface.
